@@ -1,0 +1,25 @@
+body {
+	background: url('../images/background.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+	-o-background-size: cover;	
+	font-family: 'Pathway Gothic One', sans-serif;
+    background-color: #f0dd48;
+}
+
+.jumbotron{
+    background-size: cover;
+    margin-top:10%;
+    height:80%;
+    width:90%;
+    overflow:hidden;
+}
+
+.Qsec{
+    float:left;
+    overflow:none;
+}
+
+/*  ../images/background2.jpg   */
+
